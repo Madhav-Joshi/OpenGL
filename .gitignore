@@ -8,6 +8,7 @@ build/
 *imgui.ini
 
 # Visual Studio
+.vscode/
 .vs/
 *.sln
 *.vcxproj
